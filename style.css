@@ -1,0 +1,18 @@
+
+.des{
+    flex:display;
+    justify-content:left;
+}
+.box{
+    padding: 4px;
+    margin: 2px;
+    border: 2px solid red;
+}
+.des{
+    display:flex;
+}
+.size{
+    
+    padding: 5px;
+    margin: 4px;
+}
